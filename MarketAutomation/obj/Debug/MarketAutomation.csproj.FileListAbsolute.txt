@@ -1,0 +1,10 @@
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\bin\Debug\MarketAutomation.exe.config
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\bin\Debug\MarketAutomation.exe
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\bin\Debug\MarketAutomation.pdb
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.csproj.AssemblyReference.cache
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.MainForm.resources
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.Properties.Resources.resources
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.csproj.GenerateResource.cache
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.exe
+C:\Users\Çekdar BALIK\Desktop\MarketAutomation\MarketAutomation\obj\Debug\MarketAutomation.pdb
